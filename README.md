@@ -1,4 +1,8 @@
-# My Awesome Book1
+# 从大学开始，接触编程，学C语言，C++，Java；学习书籍结构、计算机系统结构、算法等等。刚毕业时似乎总是踌躇满志的自己什么都能干，将来一定会做出一个很出色的软件……
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# 想法总是好的，不过慢慢的路并不是如你所想的那么走下去，学到的东西永远也不够用的（很多事情都是有可能的，只是你未曾遇到）。慢慢的有点迷失了，其中有些许的收获，
+
+# 也有些许的积累，记录一二，希望为同感之人解开些许困惑
+
+
 
