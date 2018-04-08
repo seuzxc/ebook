@@ -8,8 +8,8 @@
 * [经历五、晃荡了几年，人老了，技术风口在不断的变化，似乎也得了解各一二](jing-li-wu-3001-huang-dang-le-ji-nian-ff0c-ren-lao-le-ff0c-ji-zhu-feng-kou-zai-bu-duan-de-bian-hua-ff0c-si-hu-ye-de-le-jie-ge-yi-er.md)
 * [经历六、可能你用了他，但是你并没有去了解他---算法](jing-li-liu-3001-ke-neng-ni-yong-le-ta-ff0c-dan-shi-ni-bing-mei-you-qu-le-jie-4ed6-suan-fa.md)
 * [经历七、开发，理论上应该是一个很合格的测试](jing-li-qi-3001-kai-fa-ff0c-li-lun-shang-ying-gai-shi-yi-ge-hen-he-ge-de-ce-shi.md)
-* 经历八、闲暇时，瞅瞅源码
-* 经历九、零星总结
+* [经历八、闲暇时，瞅瞅源码](jing-li-ba-3001-xian-xia-shi-ff0c-chou-chou-yuan-ma.md)
+* [经历九、零星总结](jing-li-jiu-3001-ling-xing-zong-jie.md)
 * 写在最后：一些感觉不错的网站
 * 写在最后的最后：要相信，你是优秀的，但是吸收其他优秀人的优秀想法会使你更优秀 --一些比较好用的jar
 
