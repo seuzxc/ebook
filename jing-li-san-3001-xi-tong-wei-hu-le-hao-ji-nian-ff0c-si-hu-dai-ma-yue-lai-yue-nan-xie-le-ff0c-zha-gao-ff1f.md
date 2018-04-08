@@ -12,10 +12,21 @@
 
 鉴于上面代码质量，个人觉得如下的几个点有必要了解下：
 
-1. 软件开发的原则（SOLID）  
-   单一职责（Single Responsibility Principle）
+1. 软件开发的原则（SOLID）
 
-2. 代码重构一二
+   1. 单一职责原则（Single Responsibility Principle）
+
+   2. 开放封闭原则（Open/Closed Principle）
+
+   3. 里氏替代原则（Liskov Substitution Principle ）
+
+   4. 接口分离原则（Interface Segregation Principle）
+
+   5. 依赖倒置原则（Dependency Inversion Principle）  
+
+2. 代码重构一二  
+   在老东家公司觉得接触到的觉得对自己后续开发比较有用的一个点事代码重构，当时公司还特意的请了个讲师去讲代码重构相关的方法、作用等。虽然一两天的课不一定真能让人变成一个重构的高手，但是这个思想确实很重要，在后面的几年里我也是不是的去了解下重构相关的内容。  
+   其中code bad smell 很重要（想做好，就要知道好的标准是什么，什么是不好的），下面就列一二
 
 3. 设计模式
 
