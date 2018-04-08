@@ -9,7 +9,7 @@
 * [经历六、可能你用了他，但是你并没有去了解他---算法](第六章.md)
 * [经历七、开发，理论上应该是一个很合格的测试](第七章.md)
 * [经历八、闲暇时，瞅瞅源码](第八章.md)
-* [经历九、零星总结](jing-li-jiu-3001-ling-xing-zong-jie.md)
-* [写在最后：一些感觉不错的网站](xie-zai-zui-hou-ff1a-yi-xie-gan-jue-bu-cuo-de-wang-zhan.md)
-* [写在最后的最后：要相信，你是优秀的，但是吸收其他优秀人的优秀想法会使你更优秀 --一些比较好用的jar](xie-zai-zui-hou-de-zui-hou-ff1a-yao-xiang-xin-ff0c-ni-shi-you-xiu-de-ff0c-dan-shi-xi-shou-qi-ta-you-xiu-ren-de-you-xiu-xiang-fa-hui-shi-ni-geng-you-xiu-yi-xie-bi-jiao-hao-yong-de-jar.md)
+* [经历九、零星总结](第九章.md)
+* [写在最后：一些感觉不错的网站](写在最后_网站推荐.md)
+* [写在最后的最后：要相信，你是优秀的，但是吸收其他优秀人的优秀想法会使你更优秀 --一些比较好用的jar](jar工具推荐.md)
 
